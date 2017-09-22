@@ -8,4 +8,4 @@ a tiny redux-like lib help you understand better
 ### example
 [jsfiddle在线例子](https://jsfiddle.net/yankang/6trky9qq/)
 
-[all]()
+[all](https://github.com/ykforerlang/tinyredux/tree/master/example/all)

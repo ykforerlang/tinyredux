@@ -298,9 +298,11 @@ function combineReducersVariant(reducers) {
 }
 ```
 
-这里有一个完整的保护 middleware， bindActionCreators， combineReducers 所有特性的[完整的例子](https://jsfiddle.net/yankang/8Lc84n76/)
+这里有一个完整的保护 middleware， bindActionCreators， combineReducers 所有特性的[完整的例子](https://jsfiddle.net/yankang/6trky9qq/)
 
-[代码托管在git]()
+[代码托管在git](https://github.com/ykforerlang/tinyredux)
+
+安装:  npm install tiny-redux --save
 
 
 
